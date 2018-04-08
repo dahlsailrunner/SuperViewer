@@ -9,8 +9,7 @@
     "outDir": "wwwroot/js"
   },
   "exclude": [
-    "node_modules",
-    "bower_components",
+    "node_modules",    
     "wwwroot"
   ]
 }
